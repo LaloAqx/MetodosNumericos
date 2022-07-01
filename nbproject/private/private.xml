@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Documentos/NetBeansProjects/MetodosNum/src/EcuacionesDiferenciales/EulerCentradoDif.java</file>
+            <file>file:/D:/Documentos/NetBeansProjects/MetodosNum/src/CalculoNumerico/Derivacion1.java</file>
+            <file>file:/D:/Documentos/NetBeansProjects/MetodosNum/src/EcuadionesLineales/Matrices3x3.java</file>
+            <file>file:/D:/Documentos/NetBeansProjects/MetodosNum/src/CalculoNumerico/Simpson2.java</file>
+            <file>file:/D:/Documentos/NetBeansProjects/MetodosNum/src/CalculoNumerico/Redondear.java</file>
+            <file>file:/D:/Documentos/NetBeansProjects/MetodosNum/src/EcuacionesDiferenciales/RungeKuttaCuartoOrdenSis.java</file>
+            <file>file:/D:/Documentos/NetBeansProjects/MetodosNum/src/NoLineales_Interpolacion/NewtonRaphson.java</file>
+            <file>file:/D:/Documentos/NetBeansProjects/MetodosNum/src/NoLineales_Interpolacion/Menu.java</file>
+            <file>file:/D:/Documentos/NetBeansProjects/MetodosNum/src/CalculoNumerico/Derivacion2.java</file>
+            <file>file:/D:/Documentos/NetBeansProjects/MetodosNum/src/CalculoNumerico/LeeUnDouble.java</file>
+            <file>file:/D:/Documentos/NetBeansProjects/MetodosNum/src/CalculoNumerico/Integracion.java</file>
+            <file>file:/D:/Documentos/NetBeansProjects/MetodosNum/src/CalculoNumerico/Simpson3.java</file>
+            <file>file:/D:/Documentos/NetBeansProjects/MetodosNum/src/EcuacionesDiferenciales/EulerIzquierdo.java</file>
+            <file>file:/D:/Documentos/NetBeansProjects/MetodosNum/src/EcuacionesDiferenciales/RungeKuttaCuartoOrdenEcuacionesDif.java</file>
+            <file>file:/D:/Documentos/NetBeansProjects/MetodosNum/src/EcuacionesDiferenciales/RungeKuttaTercerOrdenDif.java</file>
+        </group>
+    </open-files>
+</project-private>
